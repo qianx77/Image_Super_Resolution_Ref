@@ -8,7 +8,10 @@
 |2021|CVPR|Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data|[[paper](https://arxiv.org/pdf/2107.10833)\]\[[code](https://github.com/xinntao/Real-ESRGAN)]|CNN|Real-ESRGAN|-|
 |2021|ICCV|SwinIR: Image Restoration Using Swin Transformer|\[[paper](https://arxiv.org/pdf/2108.10257)]\[[code](https://github.com/JingyunLiang/SwinIR)]|ViT|SwinIR|-|
 |2022|ECCV|MM-RealSR: Metric Learning based Interactive Modulation for Real-World Super-Resolution|\[[paper](https://arxiv.org/pdf/2205.05065)]\[[code](https://github.com/TencentARC/MM-RealSR)]|CNN|MMRealSR|-|
+|2022|ECCV|Efficient and Degradation-Adaptive Network for Real-World Image Super-Resolution|\[[paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/ECCV2022_DASR.pdf)]\[[code](https://github.com/csjliang/DASR)]|CNN|DASR|-|
 |2023|CVPR|HAT: Hybrid Attention Transformer for Image Restoration|\[[paper](https://arxiv.org/abs/2309.05239)]\[[code](https://github.com/XPixelGroup/HAT)]|ViT|HAT|-|
+|2024|CVPR |SinSR: Diffusion-Based Image Super-Resolution in a Single Step|\[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_SinSR_Diffusion-Based_Image_Super-Resolution_in_a_Single_Step_CVPR_2024_paper.pdf)]\[[code](https://github.com/wyf0912/SinSR/)]|Diffusion|SinSR|-|
+|2024|TPAMI |ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting|\[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf)]\[[code](https://github.com/zsyOAOA/ResShift)]|Diffusion|ResShift|-|
 |2024|IJCV |Exploiting Diffusion Prior for Real-World Image Super-Resolution|\[[paper](https://arxiv.org/abs/2305.07015)]\[[code](https://github.com/IceClear/StableSR)]|Diffusion|StableSR|SD2.1/SD-Turbo|
 |2024|ECCV|DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|\[[paper](https://arxiv.org/pdf/2308.15070)]\[[code](https://github.com/XPixelGroup/DiffBIR)]|Diffusion|DiffBIR|SD2.0/SD2.1|
 |2024|ECCV|Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization|\[[paper](https://arxiv.org/abs/2308.14469)]\[[code](https://github.com/yangxy/PASD)]|Diffusion|PASD|SD1.5/SDXL|
@@ -21,8 +24,6 @@
 |2024|Arxiv|SSP-IR: Semantic and Structure Priors for Diffusion-based Realistic Image Restoration|\[[paper](https://arxiv.org/abs/2407.03635)]~~\[[code](https://github.com/zyhrainbow/SSP-IR)]~~|Diffusion|SSP-IR|-|
 |2024|NeurIPS |DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation|\[[paper](https://arxiv.org/pdf/2410.18666)]\[[code](https://github.com/shallowdream204/DreamClear)]|Diffusion|DreamClear|PixArt-alpha|
 |2025|Arxiv |One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation|\[[paper](https://arxiv.org/pdf/2502.01993)]~~\[[code](https://github.com/JianzeLi-114/FluxSR)]~~|Diffusion|FluxSR|-|
-
-
 
 SUPIR excellent！
 
