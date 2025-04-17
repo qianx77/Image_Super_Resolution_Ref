@@ -28,6 +28,8 @@
 |2024|Pattern Recognition |AdaptBIR: Adaptive Blind Image Restoration with latent diffusion prior for higher fidelity|\[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324004102)]\[code]|Diffusion|AdaptBIR||
 |2024|Arxiv |CasSR: Activating Image Power for Real-World Image Super-Resolution|\[[paper](https://arxiv.org/abs/2403.11451)]\[code]|Diffusion|CasSR||
 |2024|ACCV |Real-SRGD: Enhancing Real-World Image Super-Resolution with Classifier-Free Guided Diffusion|\[[paper](https://openaccess.thecvf.com/content/ACCV2024/papers/Doi_Real-SRGD_Enhancing_Real-World_Image_Super-Resolution_with_Classifier-Free_Guided_Diffusion_ACCV_2024_paper.pdf)]\[[code](https://github.com/yahoojapan/srgd)]|Diffusion|Real-SRGD||
+|2024|Arxiv |AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation|\[[paper](https://arxiv.org/pdf/2404.01717)]\[code]|Diffusion|AddSR||
+|2024|CVPR |CoSeR: Bridging Image and Language for Cognitive Super-Resolution|\[[paper](https://arxiv.org/abs/2311.16512)]\[[code](https://github.com/VINHYU/CoSeR)]|Diffusion|CoSeR||
 |2024|NeurIPS |ReFIR: Grounding Large Restoration Models with Retrieval Augmentation|\[[paper](https://arxiv.org/pdf/2410.05601)]\[[code](https://github.com/csguoh/ReFIR)]|Diffusion|ReFIR||
 |2025|TCSVT|SSP-IR: Semantic and Structure Priors for Diffusion-based Realistic Image Restoration|\[[paper](https://arxiv.org/abs/2407.03635)]~~\[[code](https://github.com/zyhrainbow/SSP-IR)]~~|Diffusion|SSP-IR|-|
 |2025|Arxiv |One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation|\[[paper](https://arxiv.org/pdf/2502.01993)]~~\[[code](https://github.com/JianzeLi-114/FluxSR)]~~|Diffusion|FluxSR|-|
@@ -38,6 +40,10 @@
 |2025|Arxiv |AdaptSR: Low-Rank Adaptation for Efficient and Scalable Real-World Super-Resolution|\[[paper](https://arxiv.org/pdf/2503.07748)]\[[code](https://github.com/mandalinadagi/AdaptSR)]|Transformer|AdaptSR||
 |2025|Neurocomputing |DIffSteISR: Harnessing Diffusion Prior for Superior Real-world Stereo Image Super-Resolution|\[[paper](https://arxiv.org/pdf/2408.07516)]\[code]|Diffusion|DIffSteISR||
 |2025|AAAI |StructSR: Refuse Spurious Details in Real-World Image Super-Resolution|\[[paper](https://arxiv.org/pdf/2501.05777)]\[[code](https://github.com/LYCEXE/StructSR)]|Diffusion|StructSR||
+|2025|CVPR |TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution|\[[paper](https://arxiv.org/abs/2411.18263)]\[[code](https://github.com/Microtreei/TSD-SR)]|Diffusion|TSD-SR||
+|2025|CVPR |TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution|\[[paper](https://arxiv.org/abs/2411.18263)]\[[code](https://github.com/Microtreei/TSD-SR)]|Diffusion|TSD-SR||
+|2025|CVPR |AdcSR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution|\[[paper](https://arxiv.org/abs/2411.13383)]\[[code](https://github.com/Guaishou74851/AdcSR)]|Diffusion|AdcSR||
+|2025|CVPR |Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach|\[[paper](https://arxiv.org/pdf/2412.03017)]\[[code](https://github.com/csslc/PiSA-SR)]|Diffusion|PiSA-SR||
 
 SUPIR excellent！
 
